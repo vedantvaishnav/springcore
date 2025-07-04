@@ -20,6 +20,8 @@ public class App
         System.out.println(student1);
         System.out.println(student2);
         System.out.println("Hello GitHub from Eclipse!");
+        System.out.println("Hello GitHub from Eclipse!");
+
 
         
         

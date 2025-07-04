@@ -19,6 +19,8 @@ public class App
        StudentMain student2=(StudentMain) context.getBean("student2");
         System.out.println(student1);
         System.out.println(student2);
+        System.out.println("Hello GitHub from Eclipse!");
+
         
         
     }
